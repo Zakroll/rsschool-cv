@@ -363,7 +363,7 @@ main {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: url(/assets/img/back.png) 0 0 no-repeat;
+  background: url(./assets/img/back.png) 0 0 no-repeat;
   height: 1079px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
