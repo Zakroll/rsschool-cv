@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Zakroll.github.io/rsschool-cv/cv
