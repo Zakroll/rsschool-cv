@@ -1,6 +1,6 @@
 # Filippov Petr
 
-## Contact :
+## Contacts :
 
 - *Telegram*: @followonik
 - *Discord*: #Filippov Petr
