@@ -2,7 +2,6 @@
 
 ## Contact :
 
-- *Phone*: +79519793086
 - *Telegram*: @followonik
 - *Discord*: #Filippov Petr
 
