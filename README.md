@@ -1,1 +1,1 @@
-https://Zakroll.github.io/rsschool-cv/cv https://GITHUB-USERNAME.github.io/rsschool-cv/
+https://Zakroll.github.io/rsschool-cv/cv https://Zakroll.github.io/rsschool-cv/
