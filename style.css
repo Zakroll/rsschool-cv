@@ -179,10 +179,9 @@ flex-direction: column;
     width: 150px;
     height: 50px;
 }
-.year{
-    justify-content:center;
-    align-items:center;
-    text-align: center;
+.text{
+    align-items: center;
+    margin: 0 auto;
 }
     text-align: center;
 
