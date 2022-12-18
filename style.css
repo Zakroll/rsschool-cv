@@ -22,6 +22,10 @@ dl,
 dd {
   margin: 0;
 }
+ i{
+    padding: 0;
+    margin: 0;
+}
 
 /* Выставляем основные настройки по-умолчанию для body */
 body {
@@ -99,7 +103,6 @@ li{
 
 .photo{
     width: 100%;
-
 }
 .photo-main {
     width: 150px;
@@ -140,6 +143,7 @@ flex-direction: column;
     padding: 16px;
     flex-direction: column;
     width: 65%;
+    height: 100%;
 }
 .title-block {
     display: flex;
@@ -162,3 +166,24 @@ flex-direction: column;
 .bold__text{
     font-weight: bold;
 }
+.education__text{
+    margin-bottom: 180px;
+}
+
+/* foooter */
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.logo__rs{
+    width: 150px;
+    height: 50px;
+}
+.year{
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+}
+    text-align: center;
+
+
